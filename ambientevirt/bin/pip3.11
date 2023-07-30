@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/home/victor/Área de Trabalho/DASHPROJECT/ambientevirt/bin/python3" "$0" "$@"
+'''exec' "/home/victor/Área de Trabalho/DASHPROJECT/ambientevirt/bin/python" "$0" "$@"
 ' '''
 # -*- coding: utf-8 -*-
 import re
